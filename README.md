@@ -1,0 +1,1 @@
+Este es un proyecto que pretende automatizar la exportacion de datos desde la aplicacion de Garmin Connect a una plantilla de excel previamente preparada para poder analizar los datos obtenidos por los dispositivos garmin de una manera mas sencilla y personalizada.
